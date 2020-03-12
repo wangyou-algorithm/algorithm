@@ -8,3 +8,5 @@ csdn博客地址：<a href="https://me.csdn.net/u013054715">忘忧（算法之�
   
   
 <a href="https://github.com/wangyou-algorithm/algorithm/blob/master/redpacket/%E6%8B%BC%E6%89%8B%E6%B0%94%E7%BA%A2%E5%8C%85-%E7%BA%A2%E5%8C%85%E5%88%86%E5%89%B2%E7%AE%97%E6%B3%95.md">001. 拼手气红包-红包分割算法</a>
+
+<a href="https://github.com/wangyou-algorithm/algorithm/blob/master/rain/leetcode-%E6%8E%A5%E9%9B%A8%E6%B0%B4%E9%97%AE%E9%A2%98%E9%A2%98%E8%A7%A3.md">002. leetcode-接雨水问题题解</a>
