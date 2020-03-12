@@ -7,4 +7,4 @@ csdn博客地址：<a href="https://me.csdn.net/u013054715">忘忧（算法之�
 大家有任何疑问或者对忘忧的建议，欢迎随时沟通，提交Issues、CSDN留言、公众号留言等评论方式均可。  
   
   
-<a href="https://github.com/wangyou-algorithm/algorithm/blob/master/redpacket/%E6%8A%A2%E7%BA%A2%E5%8C%85%E7%AE%97%E6%B3%95.md">001. 拼手气红包-红包分割算法</a>
+<a href="https://github.com/wangyou-algorithm/algorithm/blob/master/redpacket/%E6%8B%BC%E6%89%8B%E6%B0%94%E7%BA%A2%E5%8C%85-%E7%BA%A2%E5%8C%85%E5%88%86%E5%89%B2%E7%AE%97%E6%B3%95.md">001. 拼手气红包-红包分割算法</a>
