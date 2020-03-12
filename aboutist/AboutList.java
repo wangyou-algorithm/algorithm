@@ -3,7 +3,7 @@
  * algorithm
  * @author 忘忧
  * @date 2020/3/12
- * 链表相关知识
+ * 链表相关知识(公众号：算法之灵魂拷问)
  */
 public class AboutList {
 
