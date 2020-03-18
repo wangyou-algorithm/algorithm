@@ -2,7 +2,7 @@
  * algorithm
  * @author 忘忧
  * @date 2020/3/18
- * leetcode题解——两数之和
+ * leetcode题解——两数相加
  * 公众号（算法之灵魂探索）
  */
 public class AddTwoNumbers {
