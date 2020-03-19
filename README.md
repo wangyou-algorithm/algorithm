@@ -1,4 +1,7 @@
 >忘忧的个人微信公众号：**算法之灵魂拷问**，欢迎大家一起探讨沟通，有留言必回！  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/ap0KQVQrVrb9pUns0CzysvjPz1F24fZd51SKdjTHAtbgqgIG6KLfnKAK6M8xb1iccKHsmmNHbfI1xzeDiaRKMXRw/0?wx_fmt=jpeg)
+
 csdn博客地址：<a href="https://me.csdn.net/u013054715">忘忧（算法之灵魂拷问）的CSDN首页</a>
 
 这个工程将持续更新一些比较有趣的算法题的题解，希望能够在接下来的过程中，与大家一起有所收获，有所成长。  
@@ -23,3 +26,5 @@ csdn博客地址：<a href="https://me.csdn.net/u013054715">忘忧（算法之�
 [008. leetcode-两数之和](https://github.com/wangyou-algorithm/algorithm/blob/master/twosum/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 
 [009. leetcode-两数相加](https://github.com/wangyou-algorithm/algorithm/blob/master/addTwoNumbers/%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)
+
+[010. leetcode-无重复字符的最长子串](https://github.com/wangyou-algorithm/algorithm/blob/master/longestSubstring/%E6%9C%80%E9%95%BF%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%90%E4%B8%B2.md)
